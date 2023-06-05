@@ -1,3 +1,4 @@
-laravel tanıtım sitesi 
+Proje Tanıtım Videosu: https://youtu.be/w9H1cIsqlw4
 
-Levent Şen & Muhammet Furkan Özçelik
+Frontend: Levent Şen
+Backend: Muhammed Furkan Özçelik
